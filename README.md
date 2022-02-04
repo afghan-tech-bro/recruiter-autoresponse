@@ -25,3 +25,14 @@ I look forward to hearing from you.
 
 Omid Rajabi
 ```
+
+## TC followup
+```
+I've been thinking about the compensation question. Reasonably speaking there are way too many unknowns at this point in time for me to really have a sense for how much it would take for me to leave my current employer.
+
+This is a really exciting sounding opportunity and I'm definitely intrigued, but I still think I'd need to know more before I gave an absolute number.
+
+Factors like culture, tech stack, growth potential, and responsibilities will all play a pretty major role in what it would take to sell me on the job.
+
+I'm happy to continue the conversation if they're willing to speak to me.
+```
